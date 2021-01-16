@@ -1,5 +1,5 @@
-# linuxShellWithC
-Linux Shell program with C
+# linux-shell-in-c
+Linux Shell program in C
 
 
 # Design overview
